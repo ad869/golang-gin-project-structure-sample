@@ -1,0 +1,1 @@
+# golang-gin-project-structure-sample
